@@ -2,7 +2,9 @@
 
 **Desenvolvedor de Hardware e Firmware**
 
-Me chamo Matheus Henrique Silva, tenho 23 anos e sou de Belo-Horizonte MG. Sou engenheiro eletrônico e de telecomunições pela PUC-Minas. Sou Profissional de pesquisa e desenvolvimento na área de eletrônica e compartilho meus projetos de Hardwares e Firmwares por aqui. Sou também fundador e desenvolvedor da marca Compco.
+Me chamo Matheus Henrique Silva, tenho 23 anos e sou de Belo-Horizonte MG. 
+Sou engenheiro eletrônico e de telecomunições pela PUC-Minas. Trabalho com pesquisa e desenvolvimento na área de eletrônica e compartilho meus projetos de Hardwares e Firmwares por aqui. 
+Sou também fundador e desenvolvedor da marca Compco.
 
 ---
 
