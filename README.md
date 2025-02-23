@@ -7,7 +7,7 @@ Sou engenheiro eletrônico e de telecomunições pela PUC-Minas. Trabalho com pe
 Sou também fundador e desenvolvedor da marca Compco.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-9b32222b5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheus.h.s.a.o@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.h.s.a.o@gmail.com)
 
 ![Matheus Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=math22-dev&show_icons=true&theme=radical)
 
