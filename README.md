@@ -28,5 +28,5 @@ Sou também fundador e desenvolvedor da marca Compco.
 ## 🚀 Skills
 . ESP32, STM32, PIC, Nordic, Arduino, Tiny, Raspberry-pi, Banana-pi, 
 C, C++, Python, Tago-io, MQTT, MPLab, Easy-EDA, Altium, Kicad, VSCode, Ubuntu, 
-Yocto, open-cv, tensor-flow, Tiny-ML, Edge-impulse, Modbus, tkinter, 
-BLE, NRFConnect, DSP, ESP-Mesh, GSM, GPS, Proteus8, LTSpice.
+Yocto, open-cv, tensor-flow, Tiny-ML, Edge-impulse, Modbus, tkinter, Nextion, 
+BLE, NRFConnect, DSP, ESP-Mesh, GSM, GPS, Proteus8, LTSpice, Lora, Touch-GFX
